@@ -1,1 +1,2 @@
 # Team_S_We4Tech
+# Government has conducted elections in multiple cities of India to select suitable candidates. The sample datasets include multiple variables of elections nad summarizes the total votes polled in 539 constituency of different states. The file is at a general public level with 19 variables related to the elections. The project will show multiple insights taken out from the provided datasets.
